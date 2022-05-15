@@ -25,33 +25,6 @@ pacman是加州大学伯克利分校开源的人工智能实验项目，实验�
 吃掉所有的豆子 —— 食物搜素问题 (FoodSearchProblem）
 次最优搜索 —— 任意食物搜素问题 (AnyFoodSearchProblem)
 
-实验文件目录层次
-
-├── VERSION
-├── autograder.py
-├── commands.txt
-├── eightpuzzle.py
-├── game.py
-├── ghostAgents.py
-├── grading.py
-├── graphicsDisplay.py
-├── graphicsUtils.py
-├── keyboardAgents.py
-├── layout.py
-├── layouts
-├── pacman.py
-├── pacmanAgents.py
-├── projectParams.py
-├── search.py
-├── searchAgents.py
-├── searchTestClasses.py
-├── submission_autograder.py
-├── testClasses.py
-├── testParser.py
-├── test_cases
-├── textDisplay.py
-└── util.py
-
 ### 注意事项
 
 python autograder.py 报错问题
