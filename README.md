@@ -8,9 +8,11 @@ pacman是加州大学伯克利分校开源的人工智能实验项目，实验�
 
 实验地址如下 [CS188 Project1](https://inst.eecs.berkeley.edu/~cs188/su21/project1/)
 
+
 ### 实验目的
 
 通过 pacman 实验，加深对课程介绍的各种搜索算法的理解。
+
 
 ### 实验内容
 
@@ -24,6 +26,7 @@ pacman是加州大学伯克利分校开源的人工智能实验项目，实验�
 找到所有的角落 —— 基于A*的角落问题 (CornersProblem Based on A”)
 吃掉所有的豆子 —— 食物搜素问题 (FoodSearchProblem）
 次最优搜索 —— 任意食物搜素问题 (AnyFoodSearchProblem)
+
 
 ### 注意事项
 
