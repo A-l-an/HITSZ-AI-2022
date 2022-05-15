@@ -30,7 +30,7 @@ pacman是加州大学伯克利分校开源的人工智能实验项目，实验�
 
 ### 注意事项
 
-python autograder.py 报错问题
+**python autograder.py** 报错问题
 
 参考 `AttributeError: module 'cgi' has no attribute 'escape'` 解决。 简单来说，需要在文件中添加语句 `import html`，然后用` html.escape `代替 `cgi.escape`
 
@@ -40,8 +40,8 @@ python autograder.py 报错问题
 
 ### 实验目的
 
-掌握深度学习相关基础知识点，掌握不同神经网络结构，熟悉 其工作原理和实现，如全连接神经网络、卷积神经网络等；
-掌握Tensorflow、PyTorch、MindSpore等常用的深度学习框架，并了解不同框架的区别。
+- 掌握深度学习相关基础知识点，掌握不同神经网络结构，熟悉其工作原理和实现，如全连接神经网络、卷积神经网络等；
+- 掌握Tensorflow、PyTorch、MindSpore等常用的深度学习框架，并了解不同框架的区别。
 
 
 
